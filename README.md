@@ -1,4 +1,4 @@
-# HomeLibraryCatalog
+# Home Library Catalog
 
 Home Library Catalog is a simple application to quicky input books from your personal library and store them into a .txt file on your system. This .txt file can be edited if need be. 
 
